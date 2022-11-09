@@ -7,12 +7,6 @@
 
 using namespace cv;
 using namespace std;
-const char* previewHelp =
-    "Preview functions:\n"
-        "  <ESC>, 'q' - quit the program\n"
-        "  'u' - toggle undistortion on/off\n"
-        "  'c' - toggle ArUco marker coordinates/IDs\n";#include <iostream>
-
 
 int main(int argc, char **argv) {
 
