@@ -8,6 +8,6 @@
  using namespace cv;
  using namespace std;
 
- int main() {
-   
+ int main() 
+
  //edge detection using CaanyEdgeDetection
